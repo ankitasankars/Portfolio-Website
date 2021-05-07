@@ -10,4 +10,4 @@
  
 Check out my website [here](https://ankitakokkera.netlify.app/)!
 
-  <h4 align="center">©2021 Ankita Kokkera</h4>
+  <h4 align="center">©2021 Ankita Kokkera </h4>
